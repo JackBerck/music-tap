@@ -86,7 +86,7 @@ header p {
   }
 }
 
-@media only screen and (min-device-width: 481px) {
+@media (max-width: 767.98px) {
   .pads > div {
     height: 150px;
   }
