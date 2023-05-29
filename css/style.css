@@ -86,7 +86,7 @@ header p {
   }
 }
 
-@media (max-width: 767.98px) {
+@media (max-width: 768px) {
   .pads > div {
     height: 150px;
   }
